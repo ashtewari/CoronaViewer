@@ -15,10 +15,12 @@
             </Rectangle.Fill>
             
         </Rectangle>
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <!--StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock HorizontalAlignment="Center" Text="Universal Windows Platform Application" TextWrapping="Wrap" VerticalAlignment="Center" Canvas.ZIndex="1" FontSize="64"/>
             <TextBlock HorizontalAlignment="Center" Text="on Raspberry Pi 2" TextWrapping="Wrap" VerticalAlignment="Center" Canvas.ZIndex="1" FontSize="64"/>
-        </StackPanel>
+        </-->
+
+
 
     </Grid>
 </Page>
